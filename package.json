@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-easy-print": "^0.6.0",
+    "uniqid": "^5.4.0"
+  }
+}
