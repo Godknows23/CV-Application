@@ -49,7 +49,7 @@ const GeneralSection = () => {
 						<p>First Name:</p>
 						<input
 							type='text'
-							placeholder='First Name'
+							placeholder='Godknows T'
 							name='firstName'
 							onChange={handleChange}
 							value={firstName}
@@ -61,7 +61,7 @@ const GeneralSection = () => {
 						<p>Last Name:</p>
 						<input
 							type='text'
-							placeholder='Last Name'
+							placeholder='Pesanai'
 							name='lastName'
 							onChange={handleChange}
 							value={lastName}
@@ -73,7 +73,7 @@ const GeneralSection = () => {
 						<p>Email:</p>
 						<input
 							type='email'
-							placeholder='example@gmail.com'
+							placeholder='godknowspesanai@gmail.com'
 							name='email'
 							onChange={handleChange}
 							value={email}
@@ -85,7 +85,7 @@ const GeneralSection = () => {
 						<input
 							type='tel'
 							name='phone'
-							placeholder='123-456-7890'
+							placeholder='+263782670023'
 							onChange={handleChange}
 							value={phone}
 							required

@@ -45,7 +45,7 @@ const App = () => {
 			<PrintProvider>
 				<NoPrint>
 					<main>
-						<h1 className='title'>CV-App with React</h1>
+						<h1 className='title'>CV Application, Create yours !</h1>
 						<Print>
 							<h2 className='subTitle'>General Information</h2>
 							<GeneralSection />
